@@ -1,0 +1,15 @@
+C:\Work\C#\streams\directry_and_directory_info\bin\Debug\net6.0\directry_and_directory_info.exe
+C:\Work\C#\streams\directry_and_directory_info\bin\Debug\net6.0\directry_and_directory_info.deps.json
+C:\Work\C#\streams\directry_and_directory_info\bin\Debug\net6.0\directry_and_directory_info.runtimeconfig.json
+C:\Work\C#\streams\directry_and_directory_info\bin\Debug\net6.0\directry_and_directory_info.dll
+C:\Work\C#\streams\directry_and_directory_info\bin\Debug\net6.0\ref\directry_and_directory_info.dll
+C:\Work\C#\streams\directry_and_directory_info\bin\Debug\net6.0\directry_and_directory_info.pdb
+C:\Work\C#\streams\directry_and_directory_info\obj\Debug\net6.0\directry_and_directory_info.csproj.AssemblyReference.cache
+C:\Work\C#\streams\directry_and_directory_info\obj\Debug\net6.0\directry_and_directory_info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\C#\streams\directry_and_directory_info\obj\Debug\net6.0\directry_and_directory_info.AssemblyInfoInputs.cache
+C:\Work\C#\streams\directry_and_directory_info\obj\Debug\net6.0\directry_and_directory_info.AssemblyInfo.cs
+C:\Work\C#\streams\directry_and_directory_info\obj\Debug\net6.0\directry_and_directory_info.csproj.CoreCompileInputs.cache
+C:\Work\C#\streams\directry_and_directory_info\obj\Debug\net6.0\directry_and_directory_info.dll
+C:\Work\C#\streams\directry_and_directory_info\obj\Debug\net6.0\ref\directry_and_directory_info.dll
+C:\Work\C#\streams\directry_and_directory_info\obj\Debug\net6.0\directry_and_directory_info.pdb
+C:\Work\C#\streams\directry_and_directory_info\obj\Debug\net6.0\directry_and_directory_info.genruntimeconfig.cache
